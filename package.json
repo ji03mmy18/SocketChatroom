@@ -1,0 +1,16 @@
+{
+  "name": "SocketChatroom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "YoMin Su",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  }
+}
